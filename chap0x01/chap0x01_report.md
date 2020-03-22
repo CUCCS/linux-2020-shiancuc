@@ -8,7 +8,7 @@
 
 #### 挂载iso镜像文件到该目录，创建一个工作目录用于克隆光盘内容，同步光盘内容到目标工作目录，再卸载iso镜像。
 
-![1.同步完光盘内容并卸载iso镜像](/img/1.同步完光盘内容并卸载iso镜像.PNG)
+![1.同步完光盘内容并卸载iso镜像](https://github.com/CUCCS/linux-2020-shiancuc/blob/chap0x01/chap0x01/img/1.%E5%90%8C%E6%AD%A5%E5%AE%8C%E5%85%89%E7%9B%98%E5%86%85%E5%AE%B9%E5%B9%B6%E5%8D%B8%E8%BD%BDiso%E9%95%9C%E5%83%8F.PNG)
 
 #### 进入目标工作目录，编辑Ubuntu安装引导界面增加一个新菜单项入口。
 
