@@ -12,7 +12,7 @@
 
 #### 进入目标工作目录，编辑Ubuntu安装引导界面增加一个新菜单项入口。
 
-![1.编辑安装引导界面一](/img/1.编辑安装引导界面一.PNG)
+![1.编辑安装引导界面一](https://github.com/CUCCS/linux-2020-shiancuc/blob/chap0x01/chap0x01/img/1.%E7%BC%96%E8%BE%91%E5%AE%89%E8%A3%85%E5%BC%95%E5%AF%BC%E7%95%8C%E9%9D%A2%E4%B8%80.PNG)
 
 #### 添加以下内容到该文件后强制保存退出。
 
