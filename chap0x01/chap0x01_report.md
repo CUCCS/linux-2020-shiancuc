@@ -36,7 +36,7 @@
 
 ####生成iso文件
 
-![1.封闭iso二.PNG](/img/1.封闭iso二.PNG)
+![1.封闭iso二](/img/1.封闭iso二.PNG)
 
 ####导出iso文件到宿主机上
 
