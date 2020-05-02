@@ -1,9 +1,11 @@
 #!/usr/bin/env bash
 
-for file in ./*.sh;do
-	if [[ $file =~ $0 ]];then
-		continue
-	fi
-	print "===== %s =====\n" "$file"
-	bash "file"
-done
+echo "This is a test.sh"
+
+#for file in ./*.sh;do
+#	if [[ $file =~ $0 ]];then
+#		continue
+#	fi
+#	print "===== %s =====\n" "$file"
+#	bash "file"
+#done
