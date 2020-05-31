@@ -290,9 +290,9 @@ ssh root@192.168.243.4
 
     - 使配置生效
 
-            ```bash
-            sudo netplan apply
-            ```
+        ```bash
+        sudo netplan apply
+        ```
 
     - 开启dhcp
 
