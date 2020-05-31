@@ -254,18 +254,18 @@ ssh root@192.168.243.4
                 addresses: [192.168.57.1/24]
         ```
 
-        - 使配置生效
+     - 使配置生效
 
-            ```bash
-            sudo netplan apply
-            ```
+        ```bash
+        sudo netplan apply
+        ```
 
-        - 修改/etc/default/isc-dhcp-server文件
+     - 修改/etc/default/isc-dhcp-server文件
 
-            ```bash
-            INTERFACESv4="enp0s9"
-            INTERFACESv6="enp0s9"
-            ```
+        ```bash
+        INTERFACESv4="enp0s9"
+        INTERFACESv6="enp0s9"
+        ```
 
 - Client
 
@@ -290,9 +290,9 @@ ssh root@192.168.243.4
 
     - 使配置生效
 
-            ```bash
-            sudo netplan apply
-            ```
+        ```bash
+        sudo netplan apply
+        ```
 
     - 开启dhcp
 
